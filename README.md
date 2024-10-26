@@ -36,8 +36,9 @@ An interactive 3D visualization of Earth's major ecosystems built with React, Th
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/earth-ecosystems-explorer.git
-cd earth-ecosystems-explorer
+git clone https://github.com/yourusername/Eco_System_App.git
+
+cd co_System_App
 ```
 
 2. Install dependencies:
