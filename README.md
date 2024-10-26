@@ -2,7 +2,7 @@
 
 An interactive 3D visualization of Earth's major ecosystems built with React, Three.js, and React Three Fiber. This application allows users to explore different ecosystems around the globe, learn about their characteristics, and understand their conservation status.
 
-[Watch the Demo Video](./videos/demo.mp4)
+[Watch the Demo Video](https://drive.google.com/file/d/1ISPUpGVrFtX7Vh-EX09sLpgz51iBbWon/view?usp=sharing)
 
 
 ## 🌟 Features
